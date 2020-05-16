@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Shao and Zhang(2016)]{Shao2016}
+Qi-Man Shao and Zhuo-Song Zhang.
+\newblock Identifying the limiting distribution by a general approach of
+  stein's method.
+\newblock \emph{Science China Mathematics}, 59\penalty0 (12):\penalty0
+  2379--2392, Dec 2016.
+\newblock ISSN 1869-1862.
+\newblock \doi{10.1007/s11425-016-0322-3}.
+\newblock URL \url{https://doi.org/10.1007/s11425-016-0322-3}.
+
+\end{thebibliography}
